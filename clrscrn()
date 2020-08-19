@@ -1,0 +1,5 @@
+//Definición de clrscr()
+void clrscr(void)
+{
+    system("clear");
+}
